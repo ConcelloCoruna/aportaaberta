@@ -10,15 +10,15 @@ Citizen Participation and Open Government Application
 [![Dependency Status](https://gemnasium.com/consul/consul.svg)](https://gemnasium.com/consul/consul)
 [![Coverage Status](https://coveralls.io/repos/consul/consul/badge.svg?branch=master&service=github)](https://coveralls.io/github/consul/consul?branch=master)
 
-This is the opensource code repository of the eParticipation website originally developed for the Madrid City government eParticipation website
+This is the opensource code repository for "a porta aberta", based on Consul, developed by the Madrid City government.
 
 ## Current state
 
-Development started on [2015 July 15th](https://github.com/consul/consul/commit/8db36308379accd44b5de4f680a54c41a0cc6fc6). Code was deployed to production on 2015 september 7th to [decide.madrid.es](https://decide.madrid.es). Since then new features are added often. You can take a look at a roadmap and future features in the [open issues list](https://github.com/consul/consul/issues).
+
 
 ## Roadmap
 
-See [ROADMAP_ES.md](ROADMAP_ES.md)
+
 
 ## Tech stack
 
