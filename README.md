@@ -10,7 +10,7 @@ Citizen Participation and Open Government Application
 [![Dependency Status](https://gemnasium.com/consul/consul.svg)](https://gemnasium.com/consul/consul)
 [![Coverage Status](https://coveralls.io/repos/consul/consul/badge.svg?branch=master&service=github)](https://coveralls.io/github/consul/consul?branch=master)
 
-This is the opensource code repository for "a porta aberta", based on Consul, developed by the Madrid City government.
+This is the opensource code repository for "A Porta Aberta", based on Consul, developed by the Madrid City government.
 
 ## Current state
 
@@ -31,8 +31,8 @@ Frontend tools used include [SCSS](http://sass-lang.com/) over [Foundation](http
 Prerequisites: install git, ImageMagick, Ruby 2.2.3, bundler gem, ghostscript and PostgreSQL (>=9.4).
 
 ```
-git clone https://github.com/ConcelloCoruna/consul.git
-cd consul
+git clone https://github.com/ConcelloCoruna/aportaaberta.git
+cd aportaaberta
 bundle install
 cp config/database.yml.example config/database.yml
 cp config/secrets.yml.example config/secrets.yml
