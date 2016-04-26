@@ -1,9 +1,9 @@
 ![Logo of Consul]
 (http://www.coruna.es/IMG/P_Suceso_1442838188465_640_480_U_2c8e14d5f665318819e59946b27ba2.jpg)
 
-# Consul
+# A Porta Aberta
 
-Citizen Participation and Open Government Application
+A Porta Aberta, a Citizen Participation and Open Government Application based on Consul
 
 [![Build Status](https://travis-ci.org/consul/consul.svg?branch=master)](https://travis-ci.org/consul/consul)
 [![Code Climate](https://codeclimate.com/github/consul/consul/badges/gpa.svg)](https://codeclimate.com/github/consul/consul)
