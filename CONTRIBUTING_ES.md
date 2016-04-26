@@ -1,17 +1,10 @@
-## Miembros del equipo
-
-* Raimond Garcia [github](https://github.com/voodoorai2000) | [twitter](https://twitter.com/voodoorai2000)
-* Juanjo Bazán [github](https://github.com/xuanxu) | [twitter](https://twitter.com/xuanxu)
-* Enrique García Cota [github](https://github.com/kikito) | [twitter](https://twitter.com/otikik)
-* Alberto Garcia Cabeza [github](https://github.com/decabeza) | [twitter](https://twitter.com/decabeza)
-
 ## Código de conducta
 
 Los miembros del proyecto y la comunidad de personas que contribuyen a él se adhieren a un código de conducta que se puede consultar en el archivo [CODE_OF_CONDUCT_ES.md](CODE_OF_CONDUCT_ES.md).
 
 ## Comunicación general y de incidencias
 
-El método preferido para informar sobre una incidencia en el proyecto es [creando una incidencia en la cuenta de Github del proyecto](https://github.com/consul/consul/issues/new).
+El método preferido para informar sobre una incidencia en el proyecto es [creando una incidencia en la cuenta de Github del proyecto](https://github.com/ConcelloCoruna/consul/issues/new).
 
 Para comunicación más puntual e informal, contacta con los miembros del equipo por twitter.
 
@@ -19,7 +12,7 @@ Para comunicación más puntual e informal, contacta con los miembros del equipo
 
 Los administradores utilizan dos etiquetas relacionadas con la disponibilidad para aceptar colaboraciones con las que marcar incidencias:
 
-* `PRs-welcome`: las [incidencias marcadas como PRs-welcome](https://github.com/consul/consul/labels/PRs-welcome) son funcionalidades bien definidas y que están listas para que quien quiera pueda implementarlas.
+* `PRs-welcome`: las [incidencias marcadas como PRs-welcome](https://github.com/ConcelloCoruna/consul/labels/PRs-welcome) son funcionalidades bien definidas y que están listas para que quien quiera pueda implementarlas.
 
 * `Not-ready`: con esta etiqueta se señalan funcionalidades o cambios que han de realizarse pero que todavía no están del todo definidos o falta alguna decisión a nivel interno que tomar. Por tanto se desaconseja que se inicie su implementación de momento.
 
