@@ -1,5 +1,5 @@
 ![Logo of Consul]
-(https://raw.githubusercontent.com/consul/consul/master/public/consul_logo.png)
+(http://www.coruna.es/IMG/P_Suceso_1442838188465_640_480_U_2c8e14d5f665318819e59946b27ba2.jpg)
 
 # Consul
 
