@@ -30,6 +30,7 @@ class SpendingProposal < ActiveRecord::Base
   scope :feasible,               -> { where(feasible: true) }
   scope :unfeasible,             -> { where(feasible: false) }
   scope :not_unfeasible,         -> { where("feasible IS ? OR feasible = ?", nil, true) }
+  scope :with_supports,          -> { where('cached_votes_up > 0') }
 
   scope :by_admin,    -> (admin)    { where(administrator_id: admin.presence) }
   scope :by_tag,      -> (tag_name) { tagged_with(tag_name) }
@@ -139,9 +140,12 @@ class SpendingProposal < ActiveRecord::Base
     self.responsible_name = author.try(:document_number) if author.try(:document_number).present?
   end
 
-  def self.for_summary
+  def self.finished_and_feasible
     valuation_finished.feasible
   end
 
+  def self.finished_and_unfeasible
+    valuation_finished.unfeasible
+  end
 
 end
