@@ -215,7 +215,7 @@ es_gl:
       text_sign_in: iniciar sesión
       text_sign_up: rexistrarte
       title: "Como podo comentar este documento?"
-  locale: Español
+  locale: Galego
   notifications:
     index:
       comments_on:
